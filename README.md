@@ -1,5 +1,9 @@
 # 04-pokemon-game
 
+## Leasons learned
+- Inline snapshots
+- Validate internal structure of object in `toEqual`
+
 ## Project setup
 ```
 npm install

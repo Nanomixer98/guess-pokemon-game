@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`PokemonOptions debe de hacer match con el snapchot 1`] = `
+exports[`PokemonOptions debe de hacer match con el snapshot 1`] = `
 <div class="options-container">
   <ul>
     <li>bulbasaur</li>
